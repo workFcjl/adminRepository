@@ -8,4 +8,6 @@ package com.bjpowernode.settings.test;
 public class User {
 
     private String id;
+
+    private String name;
 }
